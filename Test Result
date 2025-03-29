@@ -4,7 +4,7 @@
 <title>Test Result</title>
     </head>
     <body>
-        <table>
+        <table border="1" cellspacing="0">
             <tr>
                 <th colspan="4">Test Result</th>
                 <td rowspan="6">image.jpg</td>
@@ -19,25 +19,25 @@
                 <td>101</td>
                 <td>Hum.</td>
                 <td>Raza</td>
-                <td>A<sup>+</sup></td>
+                <td align="center">A<sup>+</sup></td>
              </tr>
              <tr>
                 <td>102</td>
                 <td>Hum.</td>
                 <td>Eva</td>
-                <td>B</td>
+                <td align="center">B</td>
              </tr>
              <tr>
                 <td>103</td>
                 <td>Hum.</td>
                 <td>Jaber</td>
-                <td>A <sup>-</sup></td>
+                <td align="center">A <sup>-</sup></td>
             </tr>
             <tr>
                 <td>104</td>
                 <td>Hum.</td>
                 <td>Joni</td>
-                <td>c</td>
+                <td align="center">c</td>
             </tr>
         </table>
     </body>
